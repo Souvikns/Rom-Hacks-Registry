@@ -1,0 +1,10 @@
+{
+    "pokemon-coral": {
+        "base-game": "Pokemon - Crystal Version (UE) (V1.0) [C][!].gbc",
+        "patch-versions": [
+            {
+                "v1.2": "coral2022demov1.2.ips"
+            }
+        ]
+    }
+}
