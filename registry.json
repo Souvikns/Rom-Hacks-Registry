@@ -1,5 +1,6 @@
-{
-    "pokemon-coral": {
+[
+    {
+        "game": "pokemon-coral",
         "base-game": "Pokemon - Crystal Version (UE) (V1.0) [C][!].gbc",
         "patch-versions": [
             {
@@ -7,4 +8,4 @@
             }
         ]
     }
-}
+]
