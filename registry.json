@@ -27,5 +27,12 @@
         "patch-versions": {
             "1.1": "Pokemon_Light_Platinum1.1.ips"
         }
+    },
+    "pokemon-glazed": {
+        "base-game": "Pokemon Emerald",
+        "system": "gba",
+        "patch-versions": {
+            "8.6.3": "Glazed8.6.3.ups"
+        }
     }
 }
