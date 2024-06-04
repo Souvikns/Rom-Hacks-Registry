@@ -17,7 +17,15 @@
         "base-game": "Pokemon Fire Red",
         "system": "gba",
         "patch-versions": {
-            "3.2": "pokemon_gia_v3.2.ups"
+            "3.2": "pokemon_gia_v3.2.ups",
+            "3.0": "pokemon_gia_v3.0.ups"
+        }
+    },
+    "pokemon-light-platinum": {
+        "base-game": "Pokemon Ruby 1.1 (English)",
+        "system": "gba",
+        "patch-versions": {
+            "1.1": "Pokemon_Light_Platinum1.1.ips"
         }
     }
 }
