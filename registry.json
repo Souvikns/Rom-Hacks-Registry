@@ -12,5 +12,12 @@
         "patch-versions": {
             "2.1.1": "PokemonUnboundOfficial.ups"
         }
+    },
+    "pokemon-gia": {
+        "base-game": "Pokemon Fire Red",
+        "system": "gba",
+        "patch-versions": {
+            "3.2": "pokemon_gia_v3.2.ups"
+        }
     }
 }
