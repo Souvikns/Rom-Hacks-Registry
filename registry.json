@@ -5,5 +5,12 @@
         "patch-versions": {
             "1.2": "coral2022demov1.2.ips"
         }
+    },
+    "pokemon-unbound": {
+        "base-game": "Pokemon Fire Red",
+        "system": "gba",
+        "patch-versions": {
+            "2.1.1": "PokemonUnboundOfficial.ups"
+        }
     }
 }
